@@ -1,0 +1,9 @@
+.main-container{
+  margin-top: 50px;
+}
+
+html,body{
+  background-color: #21232A;
+  color: white;
+  font-family: Helvetica, Arial, sans-serif;
+}
